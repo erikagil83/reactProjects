@@ -1,2 +1,2 @@
 # React Projects
-Showcase my learning journey with React from free and paid learning platforms
+This Repository showcase my learning journey with React from free and paid learning platforms
